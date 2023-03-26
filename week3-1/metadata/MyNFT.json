@@ -1,0 +1,16 @@
+{
+    "title": "我的头像",
+    "description": "我的头像-任务头像。",
+    "image": "ipfs://QmPrpKvmGnfs1qAwhvDaJiWWT4ZhPBfZ16FTQ9Jzb4VFyB",
+    "attributes": [
+        {
+            "trait_type": "姓名",
+            "value": "zhaoyuan"
+        },
+        {
+            "trait_type": "昵称",
+            "value": "freedog"
+        }
+    ],
+    "version": "2"
+}
